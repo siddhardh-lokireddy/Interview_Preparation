@@ -1,0 +1,29 @@
+### SET1 -- 05_2024
+
+1. what kind of files you load 
+2. how do you load files in aws glue
+3. how do you load files in s3 which are greater than 10MB
+4. why we use redshift
+5. tell me about spark architecture
+6. what is DAG?
+7. what is partitionby
+8. what is coalesce
+9. what are the performance tunining techniques
+10. how do you partition the data
+11. how do you filter duplicate data
+12. are you aware of crawler
+13. in oracle what do you used? cloud or on-prem and how do you load for both
+14. how to load from api's
+15. what is coalesce
+16. what columns do you use for repartition?
+17.  given a table what will be output for inner, left, right and full outer joins
+18. are you aware of athena?
+19. have you used lamba?
+20. have you used redshift?
+21. how do you load data to s3 from glue
+22. why do we use redshift over other tools
+23. have you used BOTO3, explain about boto3 architecture?
+24. have you used load file from s3 to aws glue
+25. what is the use of configure option for s3
+26. what is the difference between region and location in aws 
+27. what files have you used in your project?

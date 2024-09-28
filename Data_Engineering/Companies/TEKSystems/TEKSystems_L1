@@ -1,0 +1,23 @@
+### SET1 -- 03_2024
+
+1. How do you rate yourself in Pyspark
+2. How much do you rate yourself in Databricks
+3. How long have you been working on Databricks
+4. Types of clusters in databricks
+5. How do you load a parquet file from s3 in pyspark
+6. create a spark session in pyspark
+7. how do you write a parquet file to s3
+8. tell me about the joins in pyspark
+9. wtrite a inner join to the tables
+10. try to add a column to that table
+11. how do you drop duplicates.
+	1. can we drop duplicates from the column
+	2. can we drop duplicates from a table and write code to it.
+12. what all languages we can use in databricks
+13. what are broadcast variables and broadcast join 
+14. tell me about sparkContext
+15. tell me about partitions
+
+
+
+		

@@ -1,0 +1,8 @@
+#SET1 -- 04_2024
+
+1. write python code --> i/p: [AABBBCCCC] Expected o/p: [A2B3C4]
+2. tell about your current project 
+3. what are the aws services you have used
+4. how do you ingest the data
+5. have you worked on flat files
+6. Tell me about incremental load

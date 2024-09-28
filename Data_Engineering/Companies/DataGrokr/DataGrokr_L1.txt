@@ -1,0 +1,9 @@
+###SET01 - April_2024
+
+1. how do you load the table in pyspark
+2. how to you fill null values
+3. how do you drop null values
+4. how do you filter null values
+5. how to transform the data
+6. how do you store the data
+7. join a table using self join which has em_name, emp_number, manager_number and find manager name from emp_name only.

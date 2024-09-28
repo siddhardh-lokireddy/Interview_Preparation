@@ -1,0 +1,15 @@
+### SET1 -- 03_2024
+
+1. tell about the projects you have worked on?
+2. where and how do you used AWS Services?
+3. What all AWS Services you have used in your Previous project?
+4. Have you Amazon EMR or have you even aware of it?
+5. Have you used redshift?
+	1. what is the use of redshift and how do use redshift in your project?
+6. How do you load tables into S3
+7. how do you load tables into AWS Glue? and what do you use to load tables in glue(i.e.., crawlers)
+8. Have you used any tool to load tables from S3
+9. what is the use of s3
+10. difference multi processing and multi threading
+11. create a table in SQl
+12. How to remove duplicates in SQL

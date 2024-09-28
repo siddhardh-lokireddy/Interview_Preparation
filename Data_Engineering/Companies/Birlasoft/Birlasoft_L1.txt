@@ -1,0 +1,19 @@
+### SET01 -- 03_2024
+
+1. what are your roles and responsibilities in Dataiku
+2. how do you rate yourself in python & pyspark
+3. how do you load the data in dataiku
+4. what is the tool/recipe we use to load the data and how do we load the data
+5. after loading the data from api's what you will in the project
+6. where do you load the data in the project
+7. how do we load the data ---> tool called "Import" in dataiku
+8. have you worked on CI/CD pipelines
+9. have you worked on ML Tools and algorithms
+10.  what tools we use in Aws
+11. Have you created EC2 Instances
+12. What is VPC(Virtual Private Cloud)
+13. how do you create a EC2 instance in AWS
+14. Tell me about the difference between python and pyspark
+15. when do we use python and when do we use pyspark
+16. tell me about the tools/recipies you worked in Dataiku
+

@@ -1,0 +1,10 @@
+## SET1 -- 04_2024
+
+1. how do you load the data
+2. how to handle security of code
+3. give me brief about current project
+4. what is left anti join
+5. how do you load files from databases and api's
+6. write code to get names who purchased both bat and ball --> groupBy and count()
+7. where do you store the target data
+8. if i want to load files/ data but i should not load already existed data
